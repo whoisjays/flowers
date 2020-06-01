@@ -1,0 +1,91 @@
+:root {
+    scroll-behavior: smooth;
+}
+
+#carouselOffers {
+    min-height: 500px;
+}
+
+#carouselOffers img {
+    max-height: 450px;
+}
+
+
+#contacts {
+    font-size: 15px;
+}
+
+#contactsh3 {
+    font-size: 15px;
+    color: rgb(100, 67, 67);
+}
+
+#caros {
+    background-image: url(tender-white-flowers-pink-background-rozovyi-fon-belye-tsvet.jpg);
+}
+
+#datail {
+    color: white;
+    font-size: 11px;
+}
+
+#cardbuy {
+    color: white;
+    font-size: 11px;
+}
+
+#modal-info {
+    color: white;
+    font-size: 11px;
+}
+
+#modal-button-buy {
+    color: white;
+    font-size: 11px;
+}
+
+
+.display-4 {
+    text-transform: uppercase;
+}
+
+.jumbotron {
+    background-color: white);
+}
+
+.card {
+    background-color:white);
+}
+
+.btn {
+    color: rgb(85, 85, 85);
+}
+
+.intro {
+    max-width: 400px;
+    margin-top: 150px;
+    text-align: center;
+}
+
+
+.card {
+    height: 100%;
+}
+
+.container {
+    
+}
+
+
+
+.alert {
+    position: fixed;
+    top: 50px; 
+    width: 50%;
+    left: 25%;
+    z-index: 1051;
+}
+
+.btn {
+    padding: 0.75rem 0.7rem;
+}
